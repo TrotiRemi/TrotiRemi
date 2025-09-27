@@ -69,11 +69,10 @@
 
 ## 🚀 Projects
 
-- [FFA_Data](https://github.com/TrotiRemi/FFA_Data) — (à compléter)  
-- [devops-lab](https://github.com/TrotiRemi/devops-lab) — (à compléter)  
-- [Devops_Projet](https://github.com/TrotiRemi/Devops_Projet) — (à compléter)  
-- [Projet_E4](https://github.com/TrotiRemi/Projet_E4) — (à compléter)  
-- [E4_Intership](https://github.com/TrotiRemi/E4_Intership) — (à compléter)  
+- [FFA_Data](https://github.com/TrotiRemi/FFA_Data) — A data project, where I collected all the results of running competition to create a research dash where you can find all your results. It's a mix of database (mongo and Elastic Search), scraping, dash and devops (aws) to have a fully functionnal website.
+- [devops-lab](https://github.com/TrotiRemi/devops-lab) — Training around the devops technologies (Pipeline, kubernetess, github, aws, ect...)  
+- [Projet_E4](https://github.com/TrotiRemi/Projet_E4) — The first version of company project I made with few friends
+- [E4_Intership](https://github.com/TrotiRemi/E4_Intership) — Unity project to collect KPIs around VR to predict the QoE
 
 ---
 
