@@ -103,12 +103,47 @@ An AI initiative part of the Orange project titled "An AI for the global good". 
 
 ---
 
-### Other Notable Projects
+### E4_Intership
+A Unity-based VR project focused on collecting and analyzing Key Performance Indicators (KPIs) to predict Quality of Experience. This internship project demonstrates my expertise in VR development and data analytics.
 
-- [FFA_Data](https://github.com/TrotiRemi/FFA_Data) — A comprehensive data project collecting running competition results with a research dashboard. Built with MongoDB, Elasticsearch, Dash, and AWS DevOps infrastructure.
-- [devops-lab](https://github.com/TrotiRemi/devops-lab) — Training repository covering DevOps technologies including CI/CD Pipelines, Kubernetes, GitHub, and AWS.
-- [Projet_E4](https://github.com/TrotiRemi/Projet_E4) — First version of a company project developed collaboratively.
-- [E4_Intership](https://github.com/TrotiRemi/E4_Intership) — Unity project for collecting and analyzing VR KPIs to predict Quality of Experience.
+[![Project Screenshot](./images/e4-intership-screenshot.png)](https://github.com/TrotiRemi/E4_Intership)
+
+**Tech Stack:** Unity, VR Development, Python (Jupyter Notebook)  
+**Status:** ✅ Completed  
+[View Repository](https://github.com/TrotiRemi/E4_Intership)
+
+---
+
+### Projet_E4
+A collaborative data project focused on analyzing city data from Avignon. This project showcases my ability to work in teams and handle real-world data challenges.
+
+[![Project Screenshot](./images/projet-e4-screenshot.png)](https://github.com/TrotiRemi/Projet_E4)
+
+**Tech Stack:** Python  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/Projet_E4)
+
+---
+
+### FFA_Data
+A comprehensive data platform for finding and analyzing running competition results. This full-stack project demonstrates my expertise in data engineering, database design, DevOps, and cloud infrastructure. Features include web scraping, data aggregation, interactive dashboards, and AWS deployment.
+
+[![Project Screenshot](./images/ffa-data-screenshot.png)](https://github.com/TrotiRemi/FFA_Data)
+
+**Tech Stack:** MongoDB, Elasticsearch, Dash, AWS, Docker, Python (Jupyter Notebook)  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/FFA_Data)
+
+---
+
+### Devops_Project
+A hands-on DevOps training repository covering industry-standard practices and tools. Perfect for learning containerization, orchestration, and CI/CD pipelines.
+
+[![Project Screenshot](./images/devops-project-screenshot.png)](https://github.com/TrotiRemi/Devops_Project)
+
+**Tech Stack:** Docker, Kubernetes, CI/CD, Python (Jupyter Notebook)  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/Devops_Project)
 
 ---
 
