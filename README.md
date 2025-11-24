@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rémi
 
-🎓 Master’s student in **AI & Data Science** at [ESIEE Paris](https://www.esiee.fr/en) (2021-2026)  
+🎓 Master's student in **AI & Data Science** at [ESIEE Paris](https://www.esiee.fr/en) (2021-2026)  
 📊 Data Scientist in training — passionate about AI, Data Engineering, and Cloud solutions  
 🌍 International experience (internships in UK, Spain & Erasmus in Cyprus)  
 🏃 Athlete & former student association leader  
@@ -69,10 +69,46 @@
 
 ## 🚀 Projects
 
-- [FFA_Data](https://github.com/TrotiRemi/FFA_Data) — A data project, where I collected all the results of running competition to create a research dash where you can find all your results. It's a mix of database (mongo and Elastic Search), scraping, dash and devops (aws) to have a fully functionnal website.
-- [devops-lab](https://github.com/TrotiRemi/devops-lab) — Training around the devops technologies (Pipeline, kubernetess, github, aws, ect...)  
-- [Projet_E4](https://github.com/TrotiRemi/Projet_E4) — The first version of company project I made with few friends
-- [E4_Intership](https://github.com/TrotiRemi/E4_Intership) — Unity project to collect KPIs around VR to predict the QoE
+### My_First_WebApp
+A fully functional web application project built with Python. This project demonstrates my ability to create end-to-end web solutions.
+
+[![Project Screenshot](./path/to/webapp-screenshot.png)](https://github.com/TrotiRemi/My_First_WebApp)
+
+**Tech Stack:** Python  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/My_First_WebApp)
+
+---
+
+### Big-Data-Analytics-Project-And-Lab-With-Spark
+A comprehensive school project featuring both educational labs and practical applications. Includes labs to learn Apache Spark and a real-world project predicting Bitcoin prices using Spark.
+
+[![Project Screenshot](./path/to/spark-screenshot.png)](https://github.com/TrotiRemi/Big-Data-Analytics-Project-And-Lab-With-Spark)
+
+**Tech Stack:** JavaScript, Apache Spark  
+**License:** MIT  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/Big-Data-Analytics-Project-And-Lab-With-Spark)
+
+---
+
+### NovAI-project
+An AI initiative part of the Orange project titled "An AI for the global good". This project showcases my commitment to using AI for positive societal impact.
+
+[![Project Screenshot](./path/to/novai-screenshot.png)](https://github.com/TrotiRemi/NovAI-project)
+
+**Tech Stack:** HTML, AI/ML  
+**Status:** ✅ Active  
+[View Repository](https://github.com/TrotiRemi/NovAI-project)
+
+---
+
+### Other Notable Projects
+
+- [FFA_Data](https://github.com/TrotiRemi/FFA_Data) — A comprehensive data project collecting running competition results with a research dashboard. Built with MongoDB, Elasticsearch, Dash, and AWS DevOps infrastructure.
+- [devops-lab](https://github.com/TrotiRemi/devops-lab) — Training repository covering DevOps technologies including CI/CD Pipelines, Kubernetes, GitHub, and AWS.
+- [Projet_E4](https://github.com/TrotiRemi/Projet_E4) — First version of a company project developed collaboratively.
+- [E4_Intership](https://github.com/TrotiRemi/E4_Intership) — Unity project for collecting and analyzing VR KPIs to predict Quality of Experience.
 
 ---
 
@@ -91,4 +127,4 @@
 
 - ✉️ remi.locquette@edu.esiee.fr  
 - 🔗 [LinkedIn](https://www.linkedin.com/) (à compléter)  
-- 🌐 [GitHub Profile](https://github.com/TrotiRemi)  
+- 🌐 [GitHub Profile](https://github.com/TrotiRemi)
